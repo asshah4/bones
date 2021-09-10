@@ -8,6 +8,8 @@
 [![Codecov test
 coverage](https://codecov.io/gh/asshah4/pathway/branch/main/graph/badge.svg)](https://codecov.io/gh/asshah4/pathway?branch=main)
 [![R-CMD-check](https://github.com/asshah4/pathway/workflows/R-CMD-check/badge.svg)](https://github.com/asshah4/pathway/actions)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 The goal of pathway is to …
