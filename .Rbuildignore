@@ -1,4 +1,4 @@
-^pathway\.Rproj$
+^bones\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^codecov\.yml$
@@ -7,3 +7,4 @@
 ^docs$
 ^pkgdown$
 ^\.github$
+^\./R/dev\.R$
